@@ -162,6 +162,22 @@ Our training follows one rule: ✅ you ship something real. Each program starts 
 - 📏 **Tracking is part of the build**, not an afterthought: GA4, GTM and ad-platform conversions are wired in before launch.
 - 🤖 **AI-assisted development** (Claude Code) to move faster on well-specified work without lowering the review bar.
 
+## 💼 Join us
+
+At SOFTLOGIX, engineers don't hand a website over and walk away. You build the platform, wire the tracking, and see the leads and bookings your code produces.
+
+**What you'll work on**
+
+- ⚛️ Production **Next.js / React / TypeScript** platforms: App Router, strict mode, server actions, multilingual routing
+- 🔎 **Programmatic SEO** systems that generate hundreds of pages, with quality gates, JSON-LD and internal linking
+- 📊 **Tracking built in**: GA4, Google Tag Manager and Meta Conversions API on every launch
+- ☁️ **Multi-tenant SaaS** on React + Firebase, like our school ERP
+- 🧰 Our **open-source** tools, used in real client work
+
+**How we work:** protected `main` ← `staging` ← `dev` branches, a pull request for every change, clean lint and type-check before review, and a "learn by building" start for every new engineer.
+
+📩 **Apply:** send your GitHub profile and a project you're proud of to [info@softlogixtechnologies.com](mailto:info@softlogixtechnologies.com?subject=Careers%20at%20SOFTLOGIX) with the subject *Careers at SOFTLOGIX*.
+
 ## 📬 Get in touch
 
 **🏢 SOFTLOGIX Technologies (Private) Limited**<br/>
