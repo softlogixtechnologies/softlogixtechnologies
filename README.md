@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  🇺🇸 USA · 🇬🇧 UK · 🇨🇦 Canada · 🇦🇺 Australia · 🇦🇪 UAE · 🇵🇰 Pakistan
+  🌍 Serving clients in <b>USA · UK · Canada · Australia · UAE · Pakistan</b>
 </p>
 
 ---
