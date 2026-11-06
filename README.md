@@ -26,7 +26,7 @@
 
 ## 🏢 About us
 
-SOFTLOGIX Technologies (Private) Limited is a software development and digital marketing company registered with the SECP and headquartered in 📍 Gulberg III, Lahore, Pakistan. We serve clients across the **USA, UK, Canada, Australia, UAE and Pakistan**, with a focus on service businesses that depend on search and paid traffic: 🚘 ground transportation, 🚚 movers, ⚖️ legal and professional services, 🛒 e-commerce, 🩺 healthcare software, 🏢 coworking and 🏫 education.
+SOFTLOGIX Technologies (Private) Limited is a software development and digital marketing company registered with the SECP and headquartered in 📍 Gulberg III, Lahore, Pakistan. We serve clients across the **USA, UK, Canada, Australia, UAE and Pakistan**, with a focus on service businesses that depend on search and paid traffic: 🏛️ government and diplomatic missions, 🚘 ground transportation, 🚚 moving and home services, ⚖️ legal and translation, 🛒 e-commerce, ✈️ travel, 🩺 healthcare software, 🏢 coworking and 🏫 education.
 
 Most agencies either build the website or run the marketing. We do both, so the site architecture, the conversion tracking and the campaigns are designed together instead of patched together later.
 
@@ -111,18 +111,33 @@ Our training follows one rule: ✅ you ship something real. Each program starts 
 
 ## 🤝 Client portfolio
 
-| Client | Industry | Market |
-|---|---|---|
-| ⚖️ [Prime Legal Translation](https://www.legaltranslationinuae.com/) | Certified legal translation & attestation | Dubai, UAE |
-| 🚛 [MoversUp](https://moversup.com/) | Home, office & international moving | Dubai, UAE |
-| 💡 [Ebay Lighting](https://www.ebaylighting.com.au/) | Lighting & fans e-commerce (WooCommerce) | Sydney, Australia |
-| 👔 [Wash n Wear](https://www.washnwear.com.au/) | Custom uniform manufacturer | Melbourne, Australia |
-| 🛁 [Royal Bathrooms](https://royalbathrooms.co.uk/) | Bathroom furniture e-commerce | United Kingdom |
-| 🛍️ [Wholesale Shopping](https://www.wholesaleshopping.co.uk/) | Wholesale fashion e-commerce (Shopify) | United Kingdom |
-| 🩺 [EMRFinder](https://emrfinder.com/) | EMR / EHR software directory for healthcare providers | United States |
-| 🏢 [COWO](https://cowo.pk/) | Coworking & flexible offices | Lahore, Pakistan |
+🧑‍💻 Projects span **marketing** (SEO, Google Ads, Meta Ads, local SEO) and **development** (front end, back end, e-commerce and CMS builds).
 
-🏭 Industries we've worked in: ground transportation · moving & logistics · legal services · e-commerce (Shopify, WooCommerce) · healthcare software · uniforms & manufacturing · coworking · education.
+| Sector | Client | What they do | Market |
+|---|---|---|---|
+| 🏛️ Government & diplomatic | [UAE Ministry of Justice](https://www.moj.gov.ae/en/) | Federal ministry of justice | UAE |
+| 🏛️ Government & diplomatic | [Australian High Commission, Pakistan](https://pakistan.embassy.gov.au/islm/home.html) | Diplomatic mission, Islamabad | Pakistan |
+| 🏛️ Government & diplomatic | [Consulate of Pakistan, Manchester](https://www.pakistanconsulatemanchester.org/consulates/) | Consular services | United Kingdom |
+| 🏛️ Government & diplomatic | [Embassy of Pakistan, Paris (MOFA)](https://mofa.gov.pk/paris) | Diplomatic mission | France |
+| 🚘 Ground transportation | [Union Limousine](https://unionlimousine.com/) | Limo, chauffeur & charter bus booking | USA |
+| 🚘 Ground transportation | [Legendary Limousine](https://legendarylimousine.com/) | Limo & black car service | New York, USA |
+| 🚘 Ground transportation | [Limo Service in NYC](https://limoserviceinnyc.com/) | Chauffeur & limo service | New York, USA |
+| 🚚 Moving & home services | [ServiceMarket](https://servicemarket.com/en/) | Home services marketplace | UAE |
+| 🚚 Moving & home services | [MoversUp](https://moversup.com/) | Home, office & international moving | Dubai, UAE |
+| 🚚 Moving & home services | [E-Movers](https://emoversuae.com/) | Relocation, storage & white-glove moving | Dubai & Abu Dhabi, UAE |
+| ⚖️ Legal & translation | [Prime Legal Translation](https://www.legaltranslationinuae.com/) | Certified legal translation & attestation | Dubai, UAE |
+| ⚖️ Legal & translation | [Al Syed Legal Translation](https://translationindubai.com/) | Legal translation, interpreting & PRO services | Dubai, UAE |
+| 🛁 Bathrooms & home e-commerce | [Victorian Plumbing](https://www.victorianplumbing.co.uk/) | Bathroom retail e-commerce | United Kingdom |
+| 🛁 Bathrooms & home e-commerce | [Better Bathrooms](https://www.betterbathrooms.com/) | Bathroom retail e-commerce | United Kingdom |
+| 🛁 Bathrooms & home e-commerce | [Royal Bathrooms](https://royalbathrooms.co.uk/) | Bathroom furniture e-commerce | United Kingdom |
+| 🛁 Bathrooms & home e-commerce | [Ebay Lighting](https://www.ebaylighting.com.au/) | Lighting & fans e-commerce (WooCommerce) | Sydney, Australia |
+| 🛍️ Fashion & apparel | [Wholesale Shopping](https://www.wholesaleshopping.co.uk/) | Wholesale fashion e-commerce (Shopify) | United Kingdom |
+| 🛍️ Fashion & apparel | [Wash n Wear](https://www.washnwear.com.au/) | Custom uniform manufacturer | Melbourne, Australia |
+| ✈️ Travel | [Star Travel & Tours](https://startraveltours.co.uk/) | Flights & holiday packages | United Kingdom |
+| 🩺 Healthcare software | [EMRFinder](https://emrfinder.com/) | EMR / EHR software directory | United States |
+| 🏢 Workspace | [COWO](https://cowo.pk/) | Coworking & flexible offices | Lahore, Pakistan |
+
+🏭 **Sectors:** government & diplomatic · ground transportation · moving & home services · legal & translation · e-commerce · fashion & apparel · travel · healthcare software · coworking · education.
 
 ## 🧰 Open source
 
