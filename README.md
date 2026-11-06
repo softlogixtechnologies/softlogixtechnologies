@@ -26,7 +26,7 @@
 
 ## 🏢 About us
 
-SOFTLOGIX Technologies (Private) Limited is a software development and digital marketing company registered with the SECP and headquartered in 📍 Gulberg III, Lahore, Pakistan. We serve clients across the **USA, UK, Canada, Australia, UAE and Pakistan**, with a focus on service businesses that depend on search and paid traffic: 🚘 ground transportation, 🚚 movers, 🏠 home services, ⚖️ legal and professional services, and 🏫 education.
+SOFTLOGIX Technologies (Private) Limited is a software development and digital marketing company registered with the SECP and headquartered in 📍 Gulberg III, Lahore, Pakistan. We serve clients across the **USA, UK, Canada, Australia, UAE and Pakistan**, with a focus on service businesses that depend on search and paid traffic: 🚘 ground transportation, 🚚 movers, ⚖️ legal and professional services, 🛒 e-commerce, 🩺 healthcare software, 🏢 coworking and 🏫 education.
 
 Most agencies either build the website or run the marketing. We do both, so the site architecture, the conversion tracking and the campaigns are designed together instead of patched together later.
 
@@ -103,9 +103,26 @@ Our training follows one rule: ✅ you ship something real. Each program starts 
 | Project | What we did |
 |---|---|
 | 🚘 [Union Limousine](https://www.unionlimousine.com/) | Next.js 16 / React 19 / TypeScript booking platform with 7 regional locales; programmatic SEO across airport, state and county landing pages; Google Ads management and conversion tracking |
+| 🎩 [Legendary Limousine](https://legendarylimousine.com/) | Google Business Profile management with daily posts for a Brooklyn, NY limo and black car service; AI video reels for social |
+| 🗽 [Limo Service in NYC](https://limoserviceinnyc.com/) | Google Business Profile recovery and SEO posting; SEO blog content clusters around NYC events for a Brooklyn chauffeur service |
 | 🚚 [Movers E Dubai](https://moversedubai.com/) | Google Ads campaigns plus a full GTM / GA4 conversion-tracking build on WordPress |
 | 📦 [Perfect Movers Dubai](https://perfectmoversdubai.com/) | Local SEO, Google Business Profile and social content for a Dubai packers & movers brand |
 | 🏫 EduMatrix | Multi-tenant school ERP (React, TypeScript, Vite, Firebase) delivered as a web app, PWA and Android build; sold to private schools in Lahore |
+
+## 🤝 Client portfolio
+
+| Client | Industry | Market |
+|---|---|---|
+| ⚖️ [Prime Legal Translation](https://www.legaltranslationinuae.com/) | Certified legal translation & attestation | Dubai, UAE |
+| 🚛 [MoversUp](https://moversup.com/) | Home, office & international moving | Dubai, UAE |
+| 💡 [Ebay Lighting](https://www.ebaylighting.com.au/) | Lighting & fans e-commerce (WooCommerce) | Sydney, Australia |
+| 👔 [Wash n Wear](https://www.washnwear.com.au/) | Custom uniform manufacturer | Melbourne, Australia |
+| 🛁 [Royal Bathrooms](https://royalbathrooms.co.uk/) | Bathroom furniture e-commerce | United Kingdom |
+| 🛍️ [Wholesale Shopping](https://www.wholesaleshopping.co.uk/) | Wholesale fashion e-commerce (Shopify) | United Kingdom |
+| 🩺 [EMRFinder](https://emrfinder.com/) | EMR / EHR software directory for healthcare providers | United States |
+| 🏢 [COWO](https://cowo.pk/) | Coworking & flexible offices | Lahore, Pakistan |
+
+🏭 Industries we've worked in: ground transportation · moving & logistics · legal services · e-commerce (Shopify, WooCommerce) · healthcare software · uniforms & manufacturing · coworking · education.
 
 ## 🧰 Open source
 
