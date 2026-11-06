@@ -52,7 +52,7 @@ Programs run for individuals, teams and companies, remote or on site in Lahore. 
 | **Education platforms** | Learning management systems, course platforms and hands-on challenge systems built for clients: multi-tenant, role-based, with progress tracking and billing tiers |
 | **Developer training** | Hands-on programs in Next.js, React and TypeScript for individuals and teams: build real projects step by step, from a blank repo to a deployed, SEO-ready app |
 | **Marketing training** | Workshops for business owners and marketing teams on Google Ads, Meta Ads, SEO and GA4 / GTM tracking, run on the client's own accounts |
-| **Open-source starter kits** | Public templates and tools we use in client work, released under our GitHub organization (see the repositories below) |
+| **Open-source starter kits** | Public templates and tools we use in client work, starting with the [GA4 + GTM Conversion Tracking Kit](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit) |
 
 ## 💻 Tech stack
 
@@ -86,6 +86,20 @@ Programs run for individuals, teams and companies, remote or on site in Lahore. 
 | [Movers E Dubai](https://moversedubai.com/) | Google Ads campaigns plus a full GTM / GA4 conversion-tracking build on WordPress |
 | [Perfect Movers Dubai](https://perfectmoversdubai.com/) | Local SEO, Google Business Profile and social content for a Dubai packers & movers brand |
 | EduMatrix | Multi-tenant school ERP (React, TypeScript, Vite, Firebase) delivered as a web app, PWA and Android build; sold to private schools in Lahore |
+
+## 🧰 Open source
+
+| Repository | What it does |
+|---|---|
+| [**ga4-gtm-conversion-tracking-kit**](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit) | Importable GTM container and event spec wiring GA4, Google Ads and Meta Pixel + Conversions API, with event-ID deduplication. Drop-in helpers for Next.js, React and WordPress (Contact Form 7, Elementor, WPForms, Gravity Forms), plus a full QA checklist. |
+
+More starter kits on the way: a programmatic SEO page generator for Next.js and a paid-media SOP playbook. ⭐ Star the repos to follow along.
+
+## 🎓 Certifications
+
+![Google Ads Certified](https://img.shields.io/badge/Google_Ads-Certified-4285F4?style=flat&logo=googleads&logoColor=white)
+![Google Analytics Certified](https://img.shields.io/badge/Google_Analytics-Certified-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![Microsoft Ads Accredited](https://img.shields.io/badge/Microsoft_Ads-Accredited_Professional-0078D4?style=flat&logo=microsoft&logoColor=white)
 
 ## 🔧 How we work
 
