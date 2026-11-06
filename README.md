@@ -1,60 +1,77 @@
-<h1 align="center">SOFTLOGIX Technologies</h1>
+<h1 align="center">👋 Welcome to SOFTLOGIX Technologies</h1>
 
 <p align="center">
-  <b>Software development, performance marketing and hands-on training, under one roof.</b><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E11D2E&center=true&vCenter=true&width=640&lines=%F0%9F%92%BB+Next.js+%C2%B7+React+%C2%B7+TypeScript+builds;%F0%9F%93%88+Google+Ads+%C2%B7+Meta+Ads+%C2%B7+Performance+Max;%F0%9F%94%8E+Programmatic+%26+Local+SEO;%F0%9F%8E%93+Hands-on+developer+%26+marketing+training" alt="Typing intro"/>
+</p>
+
+<p align="center">
+  <b>🚀 Software development, 📈 performance marketing and 🎓 hands-on training, under one roof.</b><br/>
   We build fast, multilingual web platforms, drive the traffic and ad spend that make them pay, and teach teams to do the same.
 </p>
 
 <p align="center">
-  <a href="https://softlogixtechnologies.com/">Website</a> ·
-  <a href="mailto:info@softlogixtechnologies.com">info@softlogixtechnologies.com</a> ·
-  <a href="https://www.linkedin.com/company/softlogixtechnologies">LinkedIn</a> ·
-  <a href="https://www.facebook.com/SOFTLOGIXTechnologies">Facebook</a> ·
-  <a href="https://www.instagram.com/softlogixtechnologies/">Instagram</a> ·
-  <a href="https://x.com/SOFTLOGIXTech">X</a>
+  🌐 <a href="https://softlogixtechnologies.com/">Website</a> ·
+  📧 <a href="mailto:info@softlogixtechnologies.com">Email</a> ·
+  💼 <a href="https://www.linkedin.com/company/softlogixtechnologies">LinkedIn</a> ·
+  📘 <a href="https://www.facebook.com/SOFTLOGIXTechnologies">Facebook</a> ·
+  📸 <a href="https://www.instagram.com/softlogixtechnologies/">Instagram</a> ·
+  🐦 <a href="https://x.com/SOFTLOGIXTech">X</a>
+</p>
+
+<p align="center">
+  🇺🇸 USA · 🇬🇧 UK · 🇨🇦 Canada · 🇦🇺 Australia · 🇦🇪 UAE · 🇵🇰 Pakistan
 </p>
 
 ---
 
 ## 🏢 About us
 
-SOFTLOGIX Technologies (Private) Limited is a software development and digital marketing company registered with the SECP and headquartered in Gulberg III, Lahore, Pakistan. We serve clients across the **USA, UK, Canada, Australia, UAE and Pakistan**, with a focus on service businesses that depend on search and paid traffic: ground transportation, movers, home services, legal and professional services, and education.
+SOFTLOGIX Technologies (Private) Limited is a software development and digital marketing company registered with the SECP and headquartered in 📍 Gulberg III, Lahore, Pakistan. We serve clients across the **USA, UK, Canada, Australia, UAE and Pakistan**, with a focus on service businesses that depend on search and paid traffic: 🚘 ground transportation, 🚚 movers, 🏠 home services, ⚖️ legal and professional services, and 🏫 education.
 
 Most agencies either build the website or run the marketing. We do both, so the site architecture, the conversion tracking and the campaigns are designed together instead of patched together later.
 
 We also teach what we practise: hands-on developer training in the Next.js / React / TypeScript stack, marketing workshops for business teams, and education platforms built for clients who want to run programs of their own.
 
+## ⚡ Why clients work with us
+
+- 🧩 **One team, full funnel**: website, tracking and ads built together, so nothing gets lost between agencies.
+- 📏 **Measurement first**: every lead is tracked and deduplicated before a single bid strategy is switched on.
+- 🧱 **Pages that earn their place**: programmatic SEO with a quality gate, not thousands of thin copies.
+- 🔓 **Open by default**: our tracking kit, SEO starter and SOPs are public, so you can see exactly how we work.
+
 ## 📚 Learn by building
 
-Our training follows one rule: you ship something real. Each program starts from an empty repository and ends with a deployed, tracked, SEO-ready product.
+Our training follows one rule: ✅ you ship something real. Each program starts from an empty repository and ends with a deployed, tracked, SEO-ready product.
 
 | Program | You build | Covers |
 |---|---|---|
-| **Build your own booking site** | A multilingual Next.js booking platform with server actions and email delivery | App Router, TypeScript strict mode, next-intl, React Hook Form + Zod, Resend |
-| **Build your own programmatic SEO engine** | A location / service page generator driven by structured data | Data modelling, dynamic routes, internal linking, schema markup, sitemaps |
-| **Build your own tracking stack** | GA4 + GTM + ad-platform conversions on a live site | Tag Manager, GA4 events, Google Ads and Meta conversions, server-side events |
-| **Build your own school ERP** | A multi-tenant React + Firebase app with role-based portals | Firestore data model, tenant isolation, security rules, PWA and Android packaging |
-| **Google Ads from zero to profitable** | A live search campaign on your own account | Account structure, keywords and match types, bidding, conversion tracking, optimization |
+| 🚘 **Build your own booking site** | A multilingual Next.js booking platform with server actions and email delivery | App Router, TypeScript strict mode, next-intl, React Hook Form + Zod, Resend |
+| 🔎 **Build your own programmatic SEO engine** | A location / service page generator driven by structured data | Data modelling, dynamic routes, internal linking, schema markup, sitemaps |
+| 📊 **Build your own tracking stack** | GA4 + GTM + ad-platform conversions on a live site | Tag Manager, GA4 events, Google Ads and Meta conversions, server-side events |
+| 🏫 **Build your own school ERP** | A multi-tenant React + Firebase app with role-based portals | Firestore data model, tenant isolation, security rules, PWA and Android packaging |
+| 💰 **Google Ads from zero to profitable** | A live search campaign on your own account | Account structure, keywords and match types, bidding, conversion tracking, optimization |
 
-Programs run for individuals, teams and companies, remote or on site in Lahore. Starter repositories for several of them are published under this organization.
+🗓️ Programs run for individuals, teams and companies, remote or on site in Lahore. Starter repositories for several of them are published under this account.
 
 ## 🛠️ What we do
 
 | Service | What it covers |
 |---|---|
-| **Web development** | Next.js / React / TypeScript applications, App Router, multilingual routing (next-intl), headless CMS integrations, server actions, Core Web Vitals and SEO-first architecture |
-| **Programmatic SEO** | Location, service and entity page systems generated from structured data at scale, internal-linking architecture, schema markup, technical SEO |
-| **Google Ads management** | Search, Performance Max, display and remarketing: account structure, bid strategy, conversion tracking, ongoing optimization |
-| **Meta and Microsoft Ads** | Facebook / Instagram campaigns with Pixel + Conversions API, Microsoft Ads for search coverage beyond Google |
-| **Analytics and tracking** | GA4, Google Tag Manager, server-side events, Search Console, Looker Studio reporting |
-| **Local SEO** | Google Business Profile setup, recovery and management, citation building, review strategy |
-| **SaaS products** | Multi-tenant platforms such as **EduMatrix**, a school ERP (React + Firebase) with role-based portals for admins, principals, accountants, teachers, students and parents |
-| **Education platforms** | Learning management systems, course platforms and hands-on challenge systems built for clients: multi-tenant, role-based, with progress tracking and billing tiers |
-| **Developer training** | Hands-on programs in Next.js, React and TypeScript for individuals and teams: build real projects step by step, from a blank repo to a deployed, SEO-ready app |
-| **Marketing training** | Workshops for business owners and marketing teams on Google Ads, Meta Ads, SEO and GA4 / GTM tracking, run on the client's own accounts |
-| **Open-source starter kits** | Public templates and tools we use in client work: [tracking kit](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit), [programmatic SEO starter](https://github.com/softlogixtechnologies/nextjs-programmatic-seo-starter) and [paid-media SOPs](https://github.com/softlogixtechnologies/paid-media-sop-playbook) |
+| 💻 **Web development** | Next.js / React / TypeScript applications, App Router, multilingual routing (next-intl), headless CMS integrations, server actions, Core Web Vitals and SEO-first architecture |
+| 🔎 **Programmatic SEO** | Location, service and entity page systems generated from structured data at scale, internal-linking architecture, schema markup, technical SEO |
+| 🎯 **Google Ads management** | Search, Performance Max, display and remarketing: account structure, bid strategy, conversion tracking, ongoing optimization |
+| 📱 **Meta and Microsoft Ads** | Facebook / Instagram campaigns with Pixel + Conversions API, Microsoft Ads for search coverage beyond Google |
+| 📊 **Analytics and tracking** | GA4, Google Tag Manager, server-side events, Search Console, Looker Studio reporting |
+| 📍 **Local SEO** | Google Business Profile setup, recovery and management, citation building, review strategy |
+| ☁️ **SaaS products** | Multi-tenant platforms such as **EduMatrix**, a school ERP (React + Firebase) with role-based portals for admins, principals, accountants, teachers, students and parents |
+| 🏫 **Education platforms** | Learning management systems, course platforms and hands-on challenge systems built for clients: multi-tenant, role-based, with progress tracking and billing tiers |
+| 👨‍💻 **Developer training** | Hands-on programs in Next.js, React and TypeScript for individuals and teams: build real projects step by step, from a blank repo to a deployed, SEO-ready app |
+| 📣 **Marketing training** | Workshops for business owners and marketing teams on Google Ads, Meta Ads, SEO and GA4 / GTM tracking, run on the client's own accounts |
+| 🧰 **Open-source starter kits** | Public templates and tools we use in client work: [tracking kit](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit), [programmatic SEO starter](https://github.com/softlogixtechnologies/nextjs-programmatic-seo-starter) and [paid-media SOPs](https://github.com/softlogixtechnologies/paid-media-sop-playbook) |
 
 ## 💻 Tech stack
+
+**🧑‍💻 Build**
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
@@ -68,6 +85,9 @@ Programs run for individuals, teams and companies, remote or on site in Lahore. 
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 </p>
+
+**📈 Grow and measure**
+
 <p>
   <img alt="Google Ads" src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=googleads&logoColor=white"/>
   <img alt="Meta Ads" src="https://img.shields.io/badge/Meta_Ads-0866FF?style=flat&logo=meta&logoColor=white"/>
@@ -82,20 +102,20 @@ Programs run for individuals, teams and companies, remote or on site in Lahore. 
 
 | Project | What we did |
 |---|---|
-| [Union Limousine](https://www.unionlimousine.com/) | Next.js 16 / React 19 / TypeScript booking platform with 7 regional locales; programmatic SEO across airport, state and county landing pages; Google Ads management and conversion tracking |
-| [Movers E Dubai](https://moversedubai.com/) | Google Ads campaigns plus a full GTM / GA4 conversion-tracking build on WordPress |
-| [Perfect Movers Dubai](https://perfectmoversdubai.com/) | Local SEO, Google Business Profile and social content for a Dubai packers & movers brand |
-| EduMatrix | Multi-tenant school ERP (React, TypeScript, Vite, Firebase) delivered as a web app, PWA and Android build; sold to private schools in Lahore |
+| 🚘 [Union Limousine](https://www.unionlimousine.com/) | Next.js 16 / React 19 / TypeScript booking platform with 7 regional locales; programmatic SEO across airport, state and county landing pages; Google Ads management and conversion tracking |
+| 🚚 [Movers E Dubai](https://moversedubai.com/) | Google Ads campaigns plus a full GTM / GA4 conversion-tracking build on WordPress |
+| 📦 [Perfect Movers Dubai](https://perfectmoversdubai.com/) | Local SEO, Google Business Profile and social content for a Dubai packers & movers brand |
+| 🏫 EduMatrix | Multi-tenant school ERP (React, TypeScript, Vite, Firebase) delivered as a web app, PWA and Android build; sold to private schools in Lahore |
 
 ## 🧰 Open source
 
 | Repository | What it does |
 |---|---|
-| [**ga4-gtm-conversion-tracking-kit**](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit) | Importable GTM container and event spec wiring GA4, Google Ads and Meta Pixel + Conversions API, with event-ID deduplication. Drop-in helpers for Next.js, React and WordPress (Contact Form 7, Elementor, WPForms, Gravity Forms), plus a full QA checklist. |
-| [**nextjs-programmatic-seo-starter**](https://github.com/softlogixtechnologies/nextjs-programmatic-seo-starter) | Service × location landing pages from JSON on the Next.js App Router, with a quality gate that refuses to publish thin pages, JSON-LD, internal linking, sitemap and a content audit. |
-| [**paid-media-sop-playbook**](https://github.com/softlogixtechnologies/paid-media-sop-playbook) | Our SOPs for Google Ads, Performance Max and Meta Ads: account audit, campaign builds, launch checklist, weekly optimisation, monthly reporting, plus a starter negative keyword list. |
+| 📊 [**ga4-gtm-conversion-tracking-kit**](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit) | Importable GTM container and event spec wiring GA4, Google Ads and Meta Pixel + Conversions API, with event-ID deduplication. Drop-in helpers for Next.js, React and WordPress (Contact Form 7, Elementor, WPForms, Gravity Forms), plus a full QA checklist. |
+| 🔎 [**nextjs-programmatic-seo-starter**](https://github.com/softlogixtechnologies/nextjs-programmatic-seo-starter) | Service × location landing pages from JSON on the Next.js App Router, with a quality gate that refuses to publish thin pages, JSON-LD, internal linking, sitemap and a content audit. |
+| 📋 [**paid-media-sop-playbook**](https://github.com/softlogixtechnologies/paid-media-sop-playbook) | Our SOPs for Google Ads, Performance Max and Meta Ads: account audit, campaign builds, launch checklist, weekly optimisation, monthly reporting, plus a starter negative keyword list. |
 
-Together they cover the full loop: build pages that rank, measure every lead, and run the ads that feed them. ⭐ Star the repos to follow along.
+🔁 Together they cover the full loop: build pages that rank, measure every lead, and run the ads that feed them. ⭐ Star the repos to follow along.
 
 ## 🎓 Certifications
 
@@ -105,13 +125,15 @@ Together they cover the full loop: build pages that rank, measure every lead, an
 
 ## 🔧 How we work
 
-- **Git flow with protected branches**: `main` ← `staging` ← `dev` ← `feature/*`, `fix/*`, `improvement/*`; every change lands through a pull request.
-- **TypeScript strict mode, clean lint and type-check before any PR**, and a green build plus a manual pass over affected routes before anything ships.
-- **Tracking is part of the build**, not an afterthought: GA4, GTM and ad-platform conversions are wired in before launch.
-- **AI-assisted development** (Claude Code) to move faster on well-specified work without lowering the review bar.
+- 🌿 **Git flow with protected branches**: `main` ← `staging` ← `dev` ← `feature/*`, `fix/*`, `improvement/*`; every change lands through a pull request.
+- ✅ **TypeScript strict mode, clean lint and type-check before any PR**, and a green build plus a manual pass over affected routes before anything ships.
+- 📏 **Tracking is part of the build**, not an afterthought: GA4, GTM and ad-platform conversions are wired in before launch.
+- 🤖 **AI-assisted development** (Claude Code) to move faster on well-specified work without lowering the review bar.
 
 ## 📬 Get in touch
 
-**SOFTLOGIX Technologies (Private) Limited**
-Azam Heights, 2nd Floor, 12-Commercial Zone, Liberty Market, Gulberg III, Lahore 54000, Pakistan
+**🏢 SOFTLOGIX Technologies (Private) Limited**<br/>
+📍 Azam Heights, 2nd Floor, 12-Commercial Zone, Liberty Market, Gulberg III, Lahore 54000, Pakistan<br/>
 📧 [info@softlogixtechnologies.com](mailto:info@softlogixtechnologies.com) · 📞 +92 321 3788820 · 🌐 [softlogixtechnologies.com](https://softlogixtechnologies.com/)
+
+<p align="center">💬 Have a project, a campaign or a team to train? Let's talk. 🤝</p>
