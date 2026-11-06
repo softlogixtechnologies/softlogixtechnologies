@@ -8,7 +8,10 @@
 <p align="center">
   <a href="https://softlogixtechnologies.com/">Website</a> ·
   <a href="mailto:info@softlogixtechnologies.com">info@softlogixtechnologies.com</a> ·
-  <a href="https://www.linkedin.com/in/ehsan-ali/">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/softlogixtechnologies">LinkedIn</a> ·
+  <a href="https://www.facebook.com/SOFTLOGIXTechnologies">Facebook</a> ·
+  <a href="https://www.instagram.com/softlogixtechnologies/">Instagram</a> ·
+  <a href="https://x.com/SOFTLOGIXTech">X</a>
 </p>
 
 ---
