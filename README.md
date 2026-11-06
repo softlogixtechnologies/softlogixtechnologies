@@ -52,7 +52,7 @@ Programs run for individuals, teams and companies, remote or on site in Lahore. 
 | **Education platforms** | Learning management systems, course platforms and hands-on challenge systems built for clients: multi-tenant, role-based, with progress tracking and billing tiers |
 | **Developer training** | Hands-on programs in Next.js, React and TypeScript for individuals and teams: build real projects step by step, from a blank repo to a deployed, SEO-ready app |
 | **Marketing training** | Workshops for business owners and marketing teams on Google Ads, Meta Ads, SEO and GA4 / GTM tracking, run on the client's own accounts |
-| **Open-source starter kits** | Public templates and tools we use in client work, starting with the [GA4 + GTM Conversion Tracking Kit](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit) |
+| **Open-source starter kits** | Public templates and tools we use in client work: [tracking kit](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit), [programmatic SEO starter](https://github.com/softlogixtechnologies/nextjs-programmatic-seo-starter) and [paid-media SOPs](https://github.com/softlogixtechnologies/paid-media-sop-playbook) |
 
 ## 💻 Tech stack
 
@@ -92,8 +92,10 @@ Programs run for individuals, teams and companies, remote or on site in Lahore. 
 | Repository | What it does |
 |---|---|
 | [**ga4-gtm-conversion-tracking-kit**](https://github.com/softlogixtechnologies/ga4-gtm-conversion-tracking-kit) | Importable GTM container and event spec wiring GA4, Google Ads and Meta Pixel + Conversions API, with event-ID deduplication. Drop-in helpers for Next.js, React and WordPress (Contact Form 7, Elementor, WPForms, Gravity Forms), plus a full QA checklist. |
+| [**nextjs-programmatic-seo-starter**](https://github.com/softlogixtechnologies/nextjs-programmatic-seo-starter) | Service × location landing pages from JSON on the Next.js App Router, with a quality gate that refuses to publish thin pages, JSON-LD, internal linking, sitemap and a content audit. |
+| [**paid-media-sop-playbook**](https://github.com/softlogixtechnologies/paid-media-sop-playbook) | Our SOPs for Google Ads, Performance Max and Meta Ads: account audit, campaign builds, launch checklist, weekly optimisation, monthly reporting, plus a starter negative keyword list. |
 
-More starter kits on the way: a programmatic SEO page generator for Next.js and a paid-media SOP playbook. ⭐ Star the repos to follow along.
+Together they cover the full loop: build pages that rank, measure every lead, and run the ads that feed them. ⭐ Star the repos to follow along.
 
 ## 🎓 Certifications
 
