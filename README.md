@@ -185,4 +185,9 @@ At SOFTLOGIX, engineers don't hand a website over and walk away. You build the p
 🗺️ [Find us on Google Maps](https://www.google.com/maps?cid=4597840155766731174)<br/>
 📧 [info@softlogixtechnologies.com](mailto:info@softlogixtechnologies.com) · 📞 +92 321 3788820 · 🌐 [softlogixtechnologies.com](https://softlogixtechnologies.com/)
 
+<p align="center">
+  <a href="https://www.google.com/maps?cid=4597840155766731174"><img src="https://github.com/user-attachments/assets/60cb8fe0-529e-4cc6-89fb-fa8d93d1eef6" alt="SOFTLOGIX Technologies on Google Maps: Liberty Market, Gulberg III, Lahore" width="800"/></a><br/>
+  <sub>🗺️ Click the map to open SOFTLOGIX Technologies in Google Maps</sub>
+</p>
+
 <p align="center">💬 Have a project, a campaign or a team to train? Let's talk. 🤝</p>
